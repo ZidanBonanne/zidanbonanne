@@ -8,8 +8,8 @@
 
 <div align="center"widht="100%" >
   <a href="https://github.com/zidanbonanne">
-  <img height="180em" widht="50%"src="https://github-readme-stats.vercel.app/api?username=zidanbonanne&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanbonanne&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" widht="200px"src="https://github-readme-stats.vercel.app/api?username=zidanbonanne&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" widht="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanbonanne&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Zidan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +33,6 @@
 </div>
 Case gmail plugin does not work this is my e-mail: zidanrocha@gmail.com
 <!--
-**ZidanBonanne/zidanbonanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
